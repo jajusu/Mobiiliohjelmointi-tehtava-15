@@ -27,6 +27,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "Shopping list with SQLite database and React Native Elements styles."
   }
 }
